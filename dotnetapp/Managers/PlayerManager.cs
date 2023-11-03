@@ -12,7 +12,27 @@ using System.Configuration;
 namespace dotnetapp.Managers
 {
     public class PlayerManager
+    {public void FindPlayer()
     {
+
+    }
+    public void AddPlayer()
+    {
+
+    }
+    public void EditPlayer()
+    {
+
+    }
+    public void AddPlayerToDatabase()
+    {
+
+    }
+    public void DeletePlayer()
+    {
+
+    }
+
         // Write your fuctions here...
         // DisplayAllPlayers
         // AddPlayer
