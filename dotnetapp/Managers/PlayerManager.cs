@@ -32,7 +32,7 @@ namespace dotnetapp.Managers
         public PlayerManager()
         {
             con = new SqlConnection(conStr);
-            str = "select * from players";
+            str = "select * from Player";
             da = new SqlDataAdapter(str, con);
             ds = new DataSet();
             build = new SqlCommandBuilder(da);
