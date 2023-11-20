@@ -7,6 +7,7 @@ namespace dotnetapp.Models
 {
     public class Team
     {
+        
         // Write your Team class here...        
     }
 }
